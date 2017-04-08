@@ -4,6 +4,8 @@ ShadowBrokers Extracted files
 This repository is used to save extracted files of ShadowBrokers archives. I extracted them myself to be sure they weren't modified at all.
 Original download link is at : [Shadow Brokers files](https://mega.nz/#!zEAU1AQL!oWJ63n-D6lCuCQ4AY0Cv_405hX8kn7MEsa1iLH5UjKU)
 
+Here, you can find more about the [auction](https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1) file and the released password
+
 Extraction keys
 -------
 
