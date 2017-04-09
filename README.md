@@ -39,3 +39,22 @@ Then extract it :
 tar xvf eqgrp-auction-file.tar.xz -C Auction/
 ~~~
 
+
+### Trick Or Treat
+
+Another archive I missed (thanks **anonymous** for pointing it out). More information about it [here](https://medium.com/@shadowbrokerss/message-5-trick-or-treat-e43f946f93e6)
+
+Password is : **payus**
+
+You can decrypt it doing the following
+
+~~~ bash
+gpg --decrypt --output trickortreat.tar.xz trickortreat.tar.xz.gpg
+~~~
+
+Then extract it :
+
+~~~ bash
+tar xvf trickortreat.tar.xz
+~~~
+
